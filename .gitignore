@@ -1,3 +1,12 @@
 
 lichess game data.db
 .ipynb_checkpoints/DB queries-checkpoint.ipynb
+query results/cap_dict.txt
+piece moves analysis.sqbpro
+Oct 2019.pgn
+lichess_db_creation.ipynb
+*.sqbpro
+*.pgn
+.ipynb_checkpoints/Visualizations-checkpoint.ipynb
+.ipynb_checkpoints/lichess_db_creation-checkpoint.ipynb
+.ipynb_checkpoints/lichess_db_creation-checkpoint.ipynb
