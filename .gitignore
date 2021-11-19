@@ -13,7 +13,6 @@ lichess_db_creation.ipynb
 .ipynb_checkpoints/backup-checkpoint.ipynb
 .ipynb_checkpoints/lichess-analysis-checkpoint.ipynb
 .ipynb_checkpoints/Visualizations-Copy1-checkpoint.ipynb
-ex1data1.txt
 Linear Regression practice.ipynb
 query results/cap_dict_elosum_0-2500.txt
 query results/cap_dict_elosum_2500-3000.txt
@@ -29,3 +28,5 @@ query results/death_dict_elosum_4000-10000.txt
 Visualizations-Copy1.ipynb
 win rate by elo diff.txt
 .ipynb_checkpoints/Linear Regression practice-checkpoint.ipynb
+.ipynb_checkpoints/lichess_db_creation-checkpoint.ipynb
+lichess_db_creation.ipynb
